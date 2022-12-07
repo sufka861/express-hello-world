@@ -53,6 +53,7 @@ const html = `
   <body>
     <section>
       Hello from Render!
+      This is Suf's live app!
     </section>
   </body>
 </html>
